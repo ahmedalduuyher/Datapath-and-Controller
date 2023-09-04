@@ -11,3 +11,5 @@ guarantee that both conditions are present.
 * Depending on whether the controller is in state S_1 and whether A2 is asserted, set_F controls flip-
 flop F and is asserted unconditionally during state S_2.
 * Note that all flip-flops and registers, including the flip-flops in the control unit, use a common clock
+
+### This lab was done in collaboration with hsidd1
